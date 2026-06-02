@@ -13,3 +13,7 @@ int main()
     outfile.open("contohfile.txt");
 
     cout << ">= Menulis file, \'q\' untuk keluar" << endl;
+
+
+    //unlimated loop untuk menulis file
+    while (true)
