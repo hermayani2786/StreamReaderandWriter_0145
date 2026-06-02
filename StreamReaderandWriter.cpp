@@ -28,3 +28,6 @@ int main()
         outfile << baris << endl;
 
     }
+
+    //menutup file setelah penulisan selesai
+    outfile.close();
